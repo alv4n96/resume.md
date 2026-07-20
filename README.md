@@ -7,6 +7,17 @@ Write your resume in
 style it with [CSS](src/resume_markdown/resume.css), output to [`resume.html`](example/resume.html) and
 [`resume.pdf`](example/resume.pdf).
 
+## Before Started
+
+- every started bash you need 
+```bash
+source .venv/Scripts/activate
+```
+- To build resume 
+```bash
+./build.sh
+```
+
 ## Prerequisites
 
  - Python ≥ 3.9 or `uv`
