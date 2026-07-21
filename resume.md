@@ -1,114 +1,141 @@
 # MOCH. NOOR ALFAN OCTAVIAN ANWAR
 
-- [+62 8517 2129 020](http://wa.me/6285172129020)
-- <mochnooralfan@gmail.com>
-- [Github](https://github.com/alv4n96/)
+- [+62 851-7212-9020](tel:085172129020) 
+- [mochnooralfan@gmail.com](mailto:mochnooralfan@gmail.com) 
+- [GitHub](https://github.com/alv4n96) 
 - [LinkedIn](https://www.linkedin.com/in/moch-noor-alfan/)
 
-Passionate Software Engineer with experience delivering end-to-end solutions across backend and frontend development. Skilled in designing scalable systems, and managing databases. Strong analytical thinker who enjoys solving complex problems, improving system reliability, and building software that drives real impact. Committed to clean engineering practices, continuous learning, and contributing to high-quality, user-focused products.
+Software Engineer with more than 3 years of experience developing, maintaining, and supporting enterprise applications across backend, frontend, database, and infrastructure layers. Experienced in delivering end-to-end solutions for property management, smart manufacturing, and Manufacturing Execution System environments.
+
+Proficient in C#, ASP.NET Core, Blazor, React, TypeScript, and SQL Server, with hands-on experience in system integration, application modernization, testing, and production support. Strong in root-cause analysis, debugging, performance improvement, and translating complex business requirements into reliable, maintainable software solutions.
+
+## SKILLS
+
+**Languages:** (*proficient*) C#, SQL, TypeScript, JavaScript, (*familiar*)Java, Go, Dart, VB.NET
+
+**Technologies:** ASP.NET Core, REST API, Entity Framework Core, Java Spring Boot, NestJS, Prisma, React, Vue.js, Blazor WebAssembly, WPF, SQL Server, Oracle Database, PostgreSQL, Redis, Docker, Kubernetes
+
+**Others:** Git, Vercel, Postman, Figma, Supabase
+
+## EDUCATION
+
+### <span>Universitas Negeri Malang</span> <span>2015 – 2019</span>
+
+**Bachelor’s Degree in Informatics Education**
+
+GPA: **3.44 / 4.00**
 
 
-## Skills
+## EXPERIENCES
 
- - Languages: (*proficient*)  C#, SQL, TypeScript (*familiar*) Go, Java, Dart, Go, VB .NET
- - Technologies: ASP.NET Core, React, Blazor, Git, SQL Server, Docker, Kubernetes, NestJS, Postman
- - Others: Vercel, Git, Figma, Supabase
+### <span>Software Engineer — PT LG Sinar Mas Technology Solutions</span> <span>June 2025 – Present</span>
 
-## Education
+* Support the development, maintenance, and enhancement of Manufacturing Execution System and smart manufacturing applications.
+* Monitor manufacturing applications and automated equipment integrations to identify operational, performance, and data-processing issues.
+* Analyze user requirements and implement change requests based on production and business needs.
+* Develop and maintain application components using C#, WPF, BizActor, And SQL Server Database.
+* Investigate production incidents, perform root-cause analysis, and provide appropriate technical solutions.
+* Support system testing, feature validation, deployment preparation, and production rollout activities.
+* Contribute to application modernization initiatives involving Java Spring Boot REST APIs and React-based frontend applications.
+* Collaborate with engineers, manufacturing users, and other stakeholders to understand equipment workflows and production processes.
+* Prepare and maintain technical documentation, system references, and user manuals for operators and technicians.
+* Participate in equipment configuration, system integration, and validation activities for new manufacturing implementations.
 
-### <span>Universitas Negeri Malang, Indonesia</span> <span>2014 - 2019</span>
+### <span>.NET Developer — PT Realta Chakradarma (under PT Code Development Indonesia)</span> <span>May 2023 – May 2025</span>
 
-  - Bachelor of Arts - BA, Informatics Education (With GPA 3.44/4.0)
+* Developed and maintained BimaSakti, an enterprise property management application, using C#, ASP.NET Core, Blazor WebAssembly, and SQL Server.
+* Delivered end-to-end features covering backend services, business logic, database operations, user interfaces, reporting, and application integration.
+* Developed modules related to tenants, property units, agreements, invoices, charges, utility meters, deposits, digital signatures, and email distribution.
+* Designed and implemented REST APIs, validation rules, database queries, and asynchronous business processes.
+* Created operational and financial reports using FastReport, including dynamic layouts, grouping, calculations, and digital signature integration.
+* Implemented background processing for scheduled and long-running business operations.
+* Developed Excel import processes, temporary-table workflows, and business-data validation mechanisms.
+* Diagnosed and resolved application bugs, data inconsistencies, and performance bottlenecks.
+* Improved existing code through refactoring, query optimization, and reusable component development.
+* Managed application deployment and infrastructure using Docker, Kubernetes, Ocelot API Gateway, and GitHub Actions.
+* Conducted functional testing, code reviews, and validation to maintain application quality and reliability.
+* Collaborated with business users and cross-functional teams to gather requirements, provide progress updates, and deliver application enhancements.
 
-## Experiences
+### <span>.NET Developer Trainee — PT Code Development Indonesia</span> <span>November 2022 – April 2023</span>
 
-### <span>Software Engineer, PT LG Sinarmas Technology Solutions</span> <span>Jun 2025 - Currently</span>
+* Completed an intensive full-stack .NET development program covering backend, frontend, database, and collaborative software development.
+* Developed a modular hotel management application in collaboration with other participants.
+* Designed database structures and implemented business processes using SQL Server.
+* Built REST APIs using ASP.NET Core and Entity Framework Core.
+* Developed interactive user interfaces using Blazor WebAssembly.
+* Integrated the hotel module with other application modules through APIs and shared business workflows.
+* Performed application testing, debugging, and API validation using Postman.
+* Collaborated through Git and GitHub using shared repositories and team-based development workflows.
 
-- Monitoring automated systems and equipment for performance issues.
-- Develop and implement small-scale change requests from users.
-- Support testing and validation of newly added features or system implementations.
-- Assist senior engineers in preparing or configuring new equipment (requirements).
-- Maintain technical documentation for systems and processes.
-- Develop practical expertise through participating in training session and hands-on experiences in smart manufacturing technologies
+### <span>Technical Support Engineer — PT Hash Rekayasa Teknologi</span> <span>December 2020 – January 2022</span>
 
-### <span>.NET Developer, PT Realta Chakradarma (Under PT Code Development Indonesia)</span> <span>Mei 2023 - Mei 2025</span>
+* Analyzed and resolved technical issues affecting web applications, networks, and customer operations.
+* Investigated reported bugs, reproduced application issues, and documented technical findings.
+* Provided technical guidance and troubleshooting support to customers.
+* Coordinated with relevant technical teams to escalate and resolve complex incidents.
+* Monitored application issues and contributed to maintaining system availability and reliability.
+* Ensured reported cases were handled accurately and within the required resolution period.
 
-- Create Project BimaSakti, developing end-to-end solutions using C# (ASP.NET Core.)
-- Designed and implemented user interfaces with Blazor.
-- Managed and maintained applications using Docker and Kubernetes.
-- Collaborated with cross-functional teams to define, design, and ship new features.
-- Communicated effectively with stakeholders to gather requirements and provide updates.
-- Diagnosed and resolved bugs and performance bottlenecks.
-- Conducted through testing and code reviews to ensure quality and reliability.
-- Stayed updated with industry trends and technologies to implement best practices.
-- Participated in code refactoring and improvement initiatives to enhance application performance
+## PROJECTS
 
-### <span>.NET Developer Trainee, PT Code Development Indonesia</span> <span>Nov 2022 - Apr 2023</span>
+### <span>Tumbuh Tahu</span> <span>2026</span>
 
-- The Boot Camp to become a .NET Developer 
-- Identifying for build on a mini hotel manufacturing project in collaboration with other participants
-- Create and manage the running of the database by business processes
-- Developing API-based applications using .NET Core
-- develop user interfaces using Framework technology and according to existing needs
-- collaborate with fellow participants using Github
+A child-development platform comprising a cross-platform user application and a dedicated administration panel for managing its content and operational data.
 
-### <span>Technical Support Engineer, PT Hash Rekayasa Teknologi</span> <span>Dec 2020 - Jan 2022</span>
+**Technology Stack:** TypeScript, Expo, Vue 3, Nuxt 3, Supabase, Vercel
 
-- Analyze technical issues and track bugs on the website
-- Providing the technical solution and support to our customers
-- Conducting analysis related to network problems experienced
-- Resolve cases on the website as quickly and accurately as possible
-- Help to maintance system availability and reliability
+* Built a responsive application for web, Android, and iOS using Expo and React Native.
+* Developed child profiles, interactive milestone checklists, and evaluation results with color-coded development statuses.
+* Created searchable educastional content and stimulation activities organized by age group.
+* Built a Nuxt administration panel with role-based access and CRUD controls for milestones, educational materials, stimulation activities, age ranges, administrators, and user feedback.
+* Integrated Supabase for production data management and implemented CSV templates and bulk data imports for editable content.
 
+<div class="project-links"><a href="https://tumbuh-tahu-app.vercel.app/splash">Live Application</a></div>
 
-## Projects
+### <span>Hotel Realta</span> <span>2023</span>
 
-### <span>Mini Project Hotel</span> <span>2023</span>
+A collaborative modular hotel management application developed during the .NET Developer training program. Responsible for developing the Hotels module and integrating it with other modules.
 
-Hotel Realta is a small collaboration project that is separated down into several module parts. My working area on the
-Hotels module, the module that is responsible for Hotel bussiness logic process to run properly and must be able to integrate
-well with another modules.
+**Technology Stack:** C#, ASP.NET Core, Entity Framework Core, SQL Server, Blazor WebAssembly, Postman
 
-Stacks : C#, SQL Server, Blazor WASM, Postman
+* Developed hotel-related business processes and backend APIs.
+* Created and managed relational database structures.
+* Developed user interfaces using Blazor WebAssembly.
+* Integrated the Hotels module with other modules through REST APIs.
+* Collaborated with team members using GitHub.
 
-- [Database Repository](https://github.com/piharpi/db_hotel_realta/tree/hotel)
-- [BackEnd Repository](https://github.com/alv4n96/RealtaHotelWebApi)
-- [FrontEnd Repository](https://github.com/alv4n96/hotel-realta-frontend)
+<div class="project-links"><a href="https://github.com/piharpi/db_hotel_realta/tree/hotel">Database Repository</a><a href="https://github.com/alv4n96/RealtaHotelWebApi">Backend Repository</a><a href="https://github.com/alv4n96/hotel-realta-frontend">Frontend Repository</a></div>
 
-### <span>Sejarah Perang Dunia II (Mobile Apps)</span> <span>2022</span>
+### <span>World War II Learning Application</span> <span>2022</span>
 
-Sejarah Perang Dunia II is a learning media in the form of a Mobile Application, which can be used anywhere with
-interesting reading and good videos to study the history of World War 2 via Smartphone
+A mobile learning application providing educational content, articles, and videos about World War II.
 
-Stacks : Dart, Flutter.
-- [Github Repository](https://github.com/alv4n96/SkripsiInot)
+**Technology Stack:** Dart, Flutter
 
-### <span>Pembelajaran Multimedia Interaktif (Game Web)</span> <span>2019</span>
+<div class="project-links"><a href="https://github.com/alv4n96/SkripsiInot">GitHub Repository</a></div>
 
-Pembelajaran Multimedia Interaktif, is a project that provides interactive lessons that contain learning explanations, and fun
-assignments and has several kinds of games in each material, for the assessment of the assignment.
+## SELECTED CERTIFICATIONS
 
-Stacks : Construct 2
-- [Github Repository](https://github.com/alv4n96/MediaMatovani)
+### Udemy
 
-## CERTIFICATES
+* The Git & GitHub Bootcamp — July 2026
+* UI/UX Design with Figma: From Beginner to Advanced — April 2026
+* NestJS and TypeScript: Development and VPS Deployment — February 2026
+* React 18 & 19 Course — January 2026
+* Java Data Structures, Algorithms, and LeetCode Exercises — December 2025
+* React 19 and TypeScript: Beginner to Advanced — December 2025
+* C# WPF with SQL Server and Entity Framework Core — July 2025
+* C# .NET with Microsoft SQL Server — June 2025
 
-### <span>Udemy</span> 
-- The Git & Github Bootcamp | Jul 2026.
-- Desain UIUX dengan Figma dari Nol Sampai Mahir Update 2025 | Apr 2026.
-- Learn Game Development with JavaScript | Mar 2026.
-- Mahir Nest JS & Typescript sampai Deploy ke VPS | Feb 2026.
-- React 18  19 Course 2025 - Learn React JS the fast way | Jan 2026.
-- Java Data Structures & Algorithms + LEETCODE Exercises | Dec 2025.
-- React dengan React 19 dan TypeScript Pemula hingga Mahir | Dec 2025.
-- C# WPF Learn C# WPF Core with MsSQL & EF Core | Jul 2025.
-- C# .NET with MS SQL Complete Beginner to Master 2025 | Jun 2025.
+### Dicoding Indonesia
 
-### <span>Dicoding Indonesia</span> 
-- Memulai Pemrograman Dengan Python. | Jul 2022.
-- Belajar Dasar Visualisasi Data. | Jul 2022.
-- Belajar Dasar Pemrograman Web. | May 2020.
+* Getting Started with Python Programming — July 2022
+* Basic Data Visualization — July 2022
+* Basic Web Programming — May 2020
 
-### <span>For copies of certificates can be found [here](https://drive.google.com/drive/u/1/folders/18LhMDrXeaYJGbx_tRghxNbU8BbeE-_OX)</span> 
+[View Certificate Collection](https://drive.google.com/drive/u/1/folders/18LhMDrXeaYJGbx_tRghxNbU8BbeE-_OX)
 
+## LANGUAGES
 
+* Indonesian — Native
+* English — Professional working proficiency
